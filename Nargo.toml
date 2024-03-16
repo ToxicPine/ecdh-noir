@@ -1,8 +1,8 @@
 [package]
-name = "ecdh"
-type = "bin"
+name = "noir-ecdh"
+type = "lib"
 authors = [""]
-compiler_version = "0.10.5"
+compiler_version = ">=0.18.0"
 
 # [dependencies]
 noir_bigint = { tag = "v0.1.0", git = "https://github.com/shuklaayush/noir-bigint" }

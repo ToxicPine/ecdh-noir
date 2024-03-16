@@ -1,5 +1,5 @@
 [package]
-name = "noir-ecdh"
+name = "noir_ecdh"
 type = "lib"
 authors = [""]
 compiler_version = ">=0.18.0"
